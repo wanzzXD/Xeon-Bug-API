@@ -23,7 +23,7 @@ The **Xeon Bug API** is a powerful endpoint API developed by **[Dream Guy Xeon](
 
 ## 📌 Endpoints
 
-### 1️⃣ **Delay Android WhatsApp**  
+### 1 **Delay Android WhatsApp**  
 **Description:** Delay and crashes WhatsApp on Android devices.  
 **Endpoint:**  
 ```bash
@@ -36,7 +36,7 @@ GET ${api_link}/freezeDroid?target=${number}
 
 ---
 
-### 2⃣ **Spam Call Users**  
+### 2 **Spam Call Users**  
 **Description:** Spam call users on WhatsApp.  
 **Endpoint:**  
 ```bash
@@ -49,7 +49,7 @@ GET ${api_link}/callSpam?target=${number}
 
 ---
 
-### 3⃣ **Crash iOS WhatsApp**  
+### 3 **Crash iOS WhatsApp**  
 **Description:** Crashes WhatsApp on iOS devices.  
 **Endpoint:**  
 ```bash
@@ -62,7 +62,7 @@ GET ${api_link}?target=${number}
 
 ---
 
-### 4⃣ **Crash Group Chats**  
+### 4 **Crash Group Chats**  
 **Description:** Crashes an entire WhatsApp group chat.  
 **Endpoint:**  
 ```bash
