@@ -53,7 +53,7 @@ GET ${api_link}/callSpam?target=${number}
 **Description:** Crashes WhatsApp on iOS devices.  
 **Endpoint:**  
 ```bash
-GET ${api_link}/crashIos?target=${number}
+GET ${api_link}/iosCrash?target=${number}
 ```  
 **Parameters:**  
 | Key      | Type   | Description                        |
